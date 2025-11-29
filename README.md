@@ -70,6 +70,8 @@ plot(fw2);
 ## **Output:**
 
 <img width="700" height="400" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/ceb12aea-b1c1-4d58-9ecd-ac8dd4e0ebbd" />
+![20251129_130949](https://github.com/user-attachments/assets/12ad58cd-0862-4bbd-b1b9-495327261318)
+![20251129_130955](https://github.com/user-attachments/assets/9a84dd7b-ec6c-41f6-a969-8de66cefbaea)
 
 ---
 
